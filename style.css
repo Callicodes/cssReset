@@ -30,6 +30,12 @@ a {
 
 }
 
+/* ---- Navigation ---- */
+
+.name {
+  margin: 0 
+}
+
 
 /* ---- Layout Containers ---- */
 body {
