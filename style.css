@@ -24,7 +24,8 @@ a {
 ==================================== */
 
 .container{
-	
+	padding-left: 1em;
+	padding-right: 1em;
 	
 }
 
@@ -56,6 +57,16 @@ body {
 /* ---- Media Queries ---- */
 
 @media (min-width: 769px) {
+
+.wrap {
+
+     min-height: calc(100vh - 89px);
+
+}
+
+
+
+
 
 .container{
 width: 70%;
